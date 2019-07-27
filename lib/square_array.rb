@@ -13,5 +13,5 @@ def square_array(array)
  return arr_sqr
 end 
 
-square_array([1,2,3])
-square_array([9,10,16,25])
+p square_array([1,2,3])
+p square_array([9,10,16,25])
